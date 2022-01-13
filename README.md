@@ -1,2 +1,6 @@
 # Discord-Token-Generator-Main
-work token generator made by me
+Discord Token Generator made by draco
+
+WORKING 100%
+
+Simple Setup just run the Discord-Token-Generator.py file and gen the tokens
